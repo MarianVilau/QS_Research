@@ -1,0 +1,5 @@
+pandas~=2.2.2
+matplotlib~=3.9.2
+cirq~=0.12.0
+numpy~=1.19.5
+IPython~=7.31.1
